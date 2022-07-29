@@ -254,7 +254,7 @@ public class details extends AppCompatActivity {
             @Override
             public Map<String, String> getHeaders() throws AuthFailureError {
                 HashMap header = new HashMap();
-                header.put("X-RapidAPI-Key", "1224894767msh8401cb38d529700p1b8734jsn0dad1ce29b06");
+                header.put("X-RapidAPI-Key", "1224sgg5264767msh8gsb38d5297gehsb8734jsn0shd129b06");
                 header.put("X-RapidAPI-Host", "astro-daily-live-horoscope.p.rapidapi.com");
                 return header;
             }
